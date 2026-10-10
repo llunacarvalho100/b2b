@@ -1,0 +1,16 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/leads/search",
+      "destination": "/api/search"
+    },
+    {
+      "source": "/api/leads/export",
+      "destination": "/api/export"
+    },
+    {
+      "source": "/((?!api/).*)",
+      "destination": "/index.html"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "LeadRadar B2B - Prospecção de Negócios Sem Site",
+  "description": "Radar inteligente de prospecção comercial B2B. Localize empresas sem site no Google Maps e gere leads de alta conversão para criação de sites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
